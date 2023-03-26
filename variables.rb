@@ -11,3 +11,8 @@ current_fragments = 7.5
 
 is_corrupted = false
 corruption_potential = true 
+
+
+puts character_name 
+puts hometown 
+puts faction
