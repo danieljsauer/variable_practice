@@ -16,3 +16,11 @@ corruption_potential = true
 puts character_name 
 puts hometown 
 puts faction
+
+character_name = "Saris"
+hometown = "The Skirts"
+faction = "F.O.D"
+
+puts character_name 
+puts hometown 
+puts faction
